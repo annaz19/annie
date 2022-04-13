@@ -1,0 +1,50 @@
+.unorderlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: pink;
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: #111;
+  }
+  
+body {
+    background-color: lightcyan;
+  }
+
+div.a {
+    text-align: center;
+  }
+.mainbody{
+    text-align: center;
+  }
+
+.body{ text-decoration-color:grey ;
+
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.white{
+  color: pink;
+}
+
+.pink {
+  color: rgb(171, 54, 101);
+}
